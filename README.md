@@ -193,5 +193,5 @@ Deleting the plugin from **WordPress Admin → Plugins → Delete** will automat
 - Directory browsing protection
 - Clean uninstall via `uninstall.php`
 
-### 1.1.0
+### 1.0.0
 - Initial release
